@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=AKSHAT&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20·%20Founder%20·%20AI%20Engineer%20·%20FL1CKfps&descAlignY=58&descSize=18&descColor=FFA040" width="100%"/>
 
 <!-- TYPING ANIMATION — actually works on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=FF8C00&center=true&vCenter=true&width=750&height=52&lines=Founder+%40+ELV8+Studios+%F0%9F%9A%80;AI+Agents+·+Voice+Bots+·+Automations+🤖;Flutter+·+Kotlin+·+React+·+Next.js;Building+things+that+make+money+🔥;Shipping+from+Delhi+—+zero+excuses+⚡" alt="Typing SVG"/>
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=FF8C00&center=true&vCenter=true&width=750&height=52&lines=Founder+%40+ELV8+Studios+%F0%9F%9A%80;AI+Agents+·+Voice+Bots+·+Automations+🤖;Flutter+·+Kotlin+·+React+·+Next.js;Building+things+that+make+money+🔥;Shipping+from+Delhi+—+zero+excuses+⚡](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=600&color=FF8C00&center=true&vCenter=true&width=750&height=52&lines=Founder+%40+ELV8+Studios+%F0%9F%9A%80;AI+Agents+·+Voice+Bots+·+Automations+🤖;Flutter+·+Kotlin+·+React+·+Next.js;Building+things+that+make+money+🔥;Shipping+from+Delhi+—+zero+excuses+⚡)" alt="Typing SVG"/>
 
 <br/><br/>
 
