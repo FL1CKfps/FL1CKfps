@@ -213,11 +213,10 @@ const akshat = {
 
 ## `> echo $PHILOSOPHY` 🧠
 
-```
+
 <div>
 <img src="https://philosophy-nine.vercel.app"/>
 </div>
-```
 
 ---
 
