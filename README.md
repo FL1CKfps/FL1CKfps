@@ -205,8 +205,6 @@ const akshat = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FL1CKfps&theme=darkhub&no-frame=true&margin-w=8&column=7"/>
-
 </div>
 
 ---
