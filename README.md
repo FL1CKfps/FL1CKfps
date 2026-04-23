@@ -64,7 +64,7 @@ const akshat = {
 
 <!-- AI SKILLS TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=FFA040&center=true&vCenter=true&width=750&height=40&lines=🧠+AI+Calling+Agents+→+qualify+leads,+book+meetings,+zero+humans;🔄+AI+Workflow+Automations+→+n8n+·+Make+·+Zapier+·+custom+LLM;🌐+AI+SaaS+→+TrendJackr:+trends+to+viral+content,+live;📊+RAG+Pipelines+→+document+intelligence+·+knowledge+bases;🗣️+Voice+AI+→+Gemini+Live+API+·+ElevenLabs+·+real-time;🏠+JARVIS+→+local+AI+assistant+on+my+own+PC+·+my+network;💬+WhatsApp+AI+Bots+→+lead+funnels+·+real+estate+·+automated;🔍+Agentic+AI+→+multi-step+agents+with+memory+and+goals" alt="AI Skills Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2000&pause=500&color=FFA040&center=true&vCenter=true&width=750&height=40&lines=AI+Calling+Agents+%7C+qualify+leads+%7C+book+meetings+%7C+zero+humans;AI+Workflow+Automations+%7C+n8n+%7C+Make+%7C+Zapier+%7C+LLMs;AI+SaaS+%7C+TrendJackr+%7C+viral+content+engine;RAG+Pipelines+%7C+knowledge+systems;Voice+AI+%7C+real-time+APIs;WhatsApp+AI+Bots+%7C+automated+funnels;Agentic+AI+%7C+multi-step+systems" alt="AI Skills Typing"/>
 </div>
 
 <br/>
