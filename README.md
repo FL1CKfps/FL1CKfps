@@ -214,19 +214,9 @@ const akshat = {
 ## `> echo $PHILOSOPHY` 🧠
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   Tech  ×  Business  ×  Design  ×  AI  =  ELV8                     ║
-║                                                                      ║
-║   Impact        >  learning for learning's sake                     ║
-║   Distribution  >  just building cool things                        ║
-║   Shipping      >  perfecting in silence                            ║
-║   Agents        >  apps                                             ║
-║                                                                      ║
-║   "I don't want to be good at coding.                               ║
-║    I want to build something big, visible, and valuable."           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+<div>
+<img src="https://philosophy-nine.vercel.app"/>
+</div>
 ```
 
 ---
